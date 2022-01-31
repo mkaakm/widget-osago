@@ -1,0 +1,9 @@
+:root {
+    --el-color-primary: #47A04A;
+    --el-button-bg-color: #47A04A;
+    --el-button-border-color: #47A04A;
+}
+.el-button--success{
+    background-color: #47A04A;
+    border-color: #47A04A;
+}
